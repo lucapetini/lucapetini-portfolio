@@ -1,0 +1,14 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/TiltFx.module.scss.module.css [app-client] (css) */
+.TiltFx-module-scss-module__ujpYca__tiltFx {
+  transition: transform .3s ease-out;
+}
+
+@media (hover: hover) {
+  .TiltFx-module-scss-module__ujpYca__tiltFx {
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    will-change: transform;
+  }
+}
+
+/*# sourceMappingURL=a9bf9_%40once-ui-system_core_dist_components_TiltFx_module_scss_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Mask.module.scss"],"sourcesContent":[".mask {\r\n  mask-size: 100% 100%;\r\n  mask-image: radial-gradient(\r\n    var(--mask-radius) at var(--mask-position-x) var(--mask-position-y),\r\n    black 0%,\r\n    transparent 100%\r\n  );\r\n}\r\n"],"names":[],"mappings":"AAAA","ignoreList":[0]}}]
+}

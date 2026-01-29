@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/components/HeadingLink.module.scss"],"sourcesContent":[".control {\r\n    cursor: pointer;\r\n\r\n    &:hover {\r\n        .visibility {\r\n            opacity: 1;\r\n        }\r\n\r\n        .text {\r\n            text-decoration-line: underline;\r\n        }\r\n    }\r\n}\r\n\r\n.text {\r\n    text-decoration-thickness: 1px;\r\n    text-underline-offset: 0.25em;\r\n    text-decoration-color: var(--neutral-border-strong);\r\n}\r\n\r\n.visibility {\r\n    opacity: 0;\r\n    transform: scale(0.875);\r\n}"],"names":[],"mappings":"AAAA;;;;AAIQ;;;;AAIA;;;;AAMR;;;;;;;AAMA"}}]
+}

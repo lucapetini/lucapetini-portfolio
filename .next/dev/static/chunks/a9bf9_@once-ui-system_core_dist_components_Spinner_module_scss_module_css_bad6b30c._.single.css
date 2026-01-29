@@ -1,0 +1,75 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/Spinner.module.scss.module.css [app-client] (css) */
+@keyframes Spinner-module-scss-module__imkilW__spin {
+  0% {
+    opacity: 0;
+    animation-timing-function: cubic-bezier(.5, .2, .7, .5);
+    transform: rotate(0);
+  }
+
+  80% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    animation-timing-function: cubic-bezier(.5, .2, .7, .5);
+    transform: rotate(360deg);
+  }
+}
+
+.Spinner-module-scss-module__imkilW__spinner {
+  border-color: currentColor #0000 #0000;
+  animation: 1.5s infinite Spinner-module-scss-module__imkilW__spin;
+}
+
+.Spinner-module-scss-module__imkilW__xs {
+  width: var(--static-space-16);
+  height: var(--static-space-16);
+  padding: 2px;
+}
+
+.Spinner-module-scss-module__imkilW__xs .Spinner-module-scss-module__imkilW__size {
+  border-width: 2px;
+}
+
+.Spinner-module-scss-module__imkilW__s {
+  width: var(--static-space-20);
+  height: var(--static-space-20);
+  padding: 2px;
+}
+
+.Spinner-module-scss-module__imkilW__s .Spinner-module-scss-module__imkilW__size {
+  border-width: 2px;
+}
+
+.Spinner-module-scss-module__imkilW__m {
+  width: var(--static-space-24);
+  height: var(--static-space-24);
+  padding: 3px;
+}
+
+.Spinner-module-scss-module__imkilW__m .Spinner-module-scss-module__imkilW__size {
+  border-width: 2px;
+}
+
+.Spinner-module-scss-module__imkilW__l {
+  width: var(--static-space-32);
+  height: var(--static-space-32);
+  padding: 4px;
+}
+
+.Spinner-module-scss-module__imkilW__l .Spinner-module-scss-module__imkilW__size {
+  border-width: 3px;
+}
+
+.Spinner-module-scss-module__imkilW__xl {
+  width: var(--static-space-40);
+  height: var(--static-space-40);
+  padding: 8px;
+}
+
+.Spinner-module-scss-module__imkilW__xl .Spinner-module-scss-module__imkilW__size {
+  border-width: 3px;
+}
+
+/*# sourceMappingURL=a9bf9_%40once-ui-system_core_dist_components_Spinner_module_scss_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Accordion.module.scss"],"sourcesContent":[".accordion {\r\n    &:hover {\r\n        background: var(--neutral-alpha-weak);\r\n    }\r\n}"],"names":[],"mappings":"AACI","ignoreList":[0]}}]
+}

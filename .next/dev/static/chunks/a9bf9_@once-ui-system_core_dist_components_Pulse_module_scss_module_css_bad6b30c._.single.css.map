@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Pulse.module.scss"],"sourcesContent":[".position {\r\n  left: 50%;\r\n  top: 50%;\r\n  transform: translateX(-50%) translateY(-50%);\r\n}\r\n\r\n.dot {\r\n  animation: pulse 2s infinite ease-out;\r\n  transform-origin: center;\r\n  pointer-events: none;\r\n}\r\n\r\n@keyframes pulse {\r\n  0% {\r\n    transform: scale(0);\r\n    opacity: 1;\r\n  }\r\n  100% {\r\n    transform: scale(1);\r\n    opacity: 0;\r\n  }\r\n}"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;;AAMA","ignoreList":[0]}}]
+}

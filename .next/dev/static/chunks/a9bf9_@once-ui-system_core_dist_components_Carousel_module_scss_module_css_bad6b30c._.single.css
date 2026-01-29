@@ -1,0 +1,27 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/Carousel.module.scss.module.css [app-client] (css) */
+.Carousel-module-scss-module__q0mVUq__controls:hover .Carousel-module-scss-module__q0mVUq__fade, .Carousel-module-scss-module__q0mVUq__controls:focus-within .Carousel-module-scss-module__q0mVUq__fade {
+  opacity: .5;
+}
+
+.Carousel-module-scss-module__q0mVUq__controls:hover .Carousel-module-scss-module__q0mVUq__button, .Carousel-module-scss-module__q0mVUq__controls:focus-within .Carousel-module-scss-module__q0mVUq__button {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.Carousel-module-scss-module__q0mVUq__fade, .Carousel-module-scss-module__q0mVUq__button {
+  opacity: 0;
+}
+
+.Carousel-module-scss-module__q0mVUq__button {
+  animation-delay: .2s;
+}
+
+.Carousel-module-scss-module__q0mVUq__left .Carousel-module-scss-module__q0mVUq__button {
+  transform: translateX(-1rem);
+}
+
+.Carousel-module-scss-module__q0mVUq__right .Carousel-module-scss-module__q0mVUq__button {
+  transform: translateX(1rem);
+}
+
+/*# sourceMappingURL=a9bf9_%40once-ui-system_core_dist_components_Carousel_module_scss_module_css_bad6b30c._.single.css.map*/

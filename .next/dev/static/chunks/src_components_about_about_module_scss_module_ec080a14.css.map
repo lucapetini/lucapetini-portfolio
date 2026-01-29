@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/components/about/about.module.scss"],"sourcesContent":["@use \"../breakpoints.scss\" as breakpoints;\r\n\r\n.hover {\r\n    transition: var(--transition-micro-medium);\r\n\r\n    &:hover {\r\n        transform: translateX(var(--static-space-4));\r\n    }\r\n}\r\n\r\n@media (max-width: breakpoints.$s) {\r\n    .textAlign {\r\n        text-align: center;\r\n    }\r\n\r\n    .blockAlign {\r\n        align-self: center;\r\n    }\r\n}"],"names":[],"mappings":"AAEA;;;;AAGI;;;;AAKJ;EACI;;;;EAIA"}}]
+}

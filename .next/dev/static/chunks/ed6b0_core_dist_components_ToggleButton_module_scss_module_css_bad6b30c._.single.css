@@ -1,0 +1,60 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/ToggleButton.module.scss.module.css [app-client] (css) */
+.ToggleButton-module-scss-module__9rlAba__button {
+  align-items: center;
+  gap: var(--static-space-8);
+  background: var(--static-transparent);
+  color: var(--neutral-on-background-strong);
+  transition: var(--transition-micro-medium);
+  -webkit-user-select: none;
+  user-select: none;
+  white-space: nowrap;
+  border-style: solid;
+  border-width: 1px;
+  display: flex;
+}
+
+.ToggleButton-module-scss-module__9rlAba__button:hover, .ToggleButton-module-scss-module__9rlAba__button:focus {
+  background: var(--neutral-alpha-weak);
+  border-color: var(--neutral-alpha-weak);
+}
+
+.ToggleButton-module-scss-module__9rlAba__button.ToggleButton-module-scss-module__9rlAba__selected {
+  background-color: var(--neutral-alpha-medium);
+  border-color: var(--neutral-alpha-weak);
+}
+
+.ToggleButton-module-scss-module__9rlAba__button:disabled {
+  background: var(--neutral-alpha-weak);
+  color: var(--neutral-on-background-medium);
+  pointer-events: none;
+  cursor: not-allowed;
+  border: none;
+}
+
+.ToggleButton-module-scss-module__9rlAba__s {
+  height: var(--static-space-24);
+  min-height: var(--static-space-24);
+  padding: var(--static-space-2) var(--static-space-8);
+}
+
+.ToggleButton-module-scss-module__9rlAba__m {
+  height: var(--static-space-32);
+  min-height: var(--static-space-32);
+  padding: var(--static-space-4) var(--static-space-8);
+}
+
+.ToggleButton-module-scss-module__9rlAba__l {
+  height: var(--static-space-40);
+  min-height: var(--static-space-40);
+  padding: var(--static-space-8) var(--static-space-16);
+}
+
+.ToggleButton-module-scss-module__9rlAba__ghost {
+  border-color: var(--static-transparent);
+}
+
+.ToggleButton-module-scss-module__9rlAba__outline {
+  border-color: var(--neutral-alpha-weak);
+}
+
+/*# sourceMappingURL=ed6b0_core_dist_components_ToggleButton_module_scss_module_css_bad6b30c._.single.css.map*/

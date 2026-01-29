@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/components/Footer.module.scss"],"sourcesContent":["@use \"./breakpoints.scss\" as breakpoints;\r\n\r\n@media (max-width: breakpoints.$s) {\r\n    .mobile {\r\n        text-align: center;\r\n    }\r\n}"],"names":[],"mappings":"AAEA;EACI"}}]
+}

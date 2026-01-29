@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Background.module.scss"],"sourcesContent":[".gradient {\r\n  background: radial-gradient(\r\n        ellipse var(--gradient-width) var(--gradient-height) at var(--gradient-position-x) var(--gradient-position-y),\r\n        var(--gradient-color-start),\r\n        var(--gradient-color-end)\r\n      );\r\n  width: 400%;\r\n  height: 400%;\r\n  left: -150%;\r\n  top: -150%;\r\n  transform: rotate(var(--gradient-tilt));\r\n  transform-origin: center;\r\n}\r\n\r\n.lines {\r\n  background-size: var(--lines-size) var(--lines-size);\r\n  background-position: center;\r\n}\r\n\r\n.dots {\r\n  background-image: radial-gradient(var(--dots-color) 1px, var(--static-transparent) 1px);\r\n  background-size: var(--dots-size) var(--dots-size);\r\n}"],"names":[],"mappings":"AAAA;;;;;;;;;;AAcA;;;;;AAKA","ignoreList":[0]}}]
+}

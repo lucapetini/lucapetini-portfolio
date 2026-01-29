@@ -1,0 +1,136 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/Button.module.scss.module.css [app-client] (css) */
+.Button-module-scss-module__Z_19_G__button {
+  -webkit-user-select: none;
+  user-select: none;
+  white-space: nowrap;
+  -webkit-tap-highlight-color: #0000;
+  transition: var(--transition-micro-medium);
+  align-items: center;
+  padding: 0;
+  text-decoration: none;
+  display: flex;
+  position: relative;
+}
+
+.Button-module-scss-module__Z_19_G__button:hover, .Button-module-scss-module__Z_19_G__button:focus {
+  z-index: 1;
+}
+
+.Button-module-scss-module__Z_19_G__button:disabled {
+  box-shadow: none;
+  cursor: not-allowed;
+  background: var(--neutral-background-medium);
+  color: var(--neutral-on-background-weak);
+}
+
+.Button-module-scss-module__Z_19_G__primary {
+  box-shadow: inset 0 var(--solid-inset-distance) var(--solid-inset-size) var(--solid-inset-color-brand);
+  background: var(--brand-solid-medium);
+  border-style: solid;
+  border-width: var(--solid-border-width);
+  border-color: var(--solid-border-color-brand);
+  color: var(--brand-on-solid-strong);
+}
+
+.Button-module-scss-module__Z_19_G__primary:hover {
+  background: var(--brand-solid-strong);
+}
+
+.Button-module-scss-module__Z_19_G__primary:hover:disabled {
+  background: var(--neutral-background-medium);
+  color: var(--neutral-on-background-weak);
+  border: none;
+}
+
+.Button-module-scss-module__Z_19_G__secondary {
+  box-shadow: inset 0 var(--solid-inset-distance) var(--solid-inset-size) var(--solid-inset-color-neutral);
+  border-style: solid;
+  border: 1px solid var(--neutral-alpha-weak);
+  background: var(--static-transparent);
+  color: var(--neutral-on-background-strong);
+}
+
+.Button-module-scss-module__Z_19_G__secondary:hover {
+  background: var(--neutral-alpha-weak);
+  border-color: var(--neutral-alpha-weak);
+}
+
+.Button-module-scss-module__Z_19_G__secondary:hover:disabled {
+  background: var(--neutral-background-medium);
+  color: var(--neutral-on-background-weak);
+  border: 1px solid var(--neutral-alpha-weak);
+}
+
+.Button-module-scss-module__Z_19_G__tertiary {
+  background: var(--static-transparent);
+  color: var(--neutral-on-background-strong);
+  border: 1px solid var(--static-transparent);
+}
+
+.Button-module-scss-module__Z_19_G__tertiary:hover {
+  border: 1px solid var(--neutral-border-medium);
+}
+
+.Button-module-scss-module__Z_19_G__tertiary:hover:disabled {
+  background: var(--neutral-background-medium);
+  color: var(--neutral-on-background-weak);
+  border: 1px solid var(--static-transparent);
+}
+
+.Button-module-scss-module__Z_19_G__ghost {
+  background: var(--static-transparent);
+  color: var(--neutral-on-background-medium);
+  border: none;
+}
+
+.Button-module-scss-module__Z_19_G__ghost:hover {
+  color: var(--neutral-on-background-strong);
+}
+
+.Button-module-scss-module__Z_19_G__ghost:hover:disabled {
+  background: var(--neutral-background-medium);
+  color: var(--neutral-on-background-weak);
+  border: 1px solid var(--neutral-alpha-weak);
+}
+
+.Button-module-scss-module__Z_19_G__danger {
+  box-shadow: inset 0 var(--solid-inset-distance) var(--solid-inset-size) var(--solid-inset-color-danger);
+  background: var(--danger-solid-medium);
+  border-style: solid;
+  border-width: var(--solid-border-width);
+  border-color: var(--solid-border-color-danger);
+  color: var(--danger-on-solid-strong);
+}
+
+.Button-module-scss-module__Z_19_G__danger:hover {
+  background: var(--danger-solid-strong);
+}
+
+.Button-module-scss-module__Z_19_G__danger:hover:disabled {
+  background: var(--neutral-background-medium);
+  color: var(--neutral-on-background-weak);
+  border: none;
+}
+
+.Button-module-scss-module__Z_19_G__s {
+  padding: var(--static-space-4) var(--static-space-8);
+  min-height: var(--static-space-32);
+  height: var(--static-space-32);
+  gap: var(--static-space-4);
+}
+
+.Button-module-scss-module__Z_19_G__m {
+  padding: var(--static-space-8) var(--static-space-12);
+  min-height: var(--static-space-40);
+  height: var(--static-space-40);
+  gap: var(--static-space-4);
+}
+
+.Button-module-scss-module__Z_19_G__l {
+  padding: var(--static-space-12) var(--static-space-20);
+  min-height: var(--static-space-48);
+  height: var(--static-space-48);
+  gap: var(--static-space-8);
+}
+
+/*# sourceMappingURL=a9bf9_%40once-ui-system_core_dist_components_Button_module_scss_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Swiper.module.scss"],"sourcesContent":[".scrollContainer {\r\n  &::-webkit-scrollbar {\r\n    display: none;\r\n  }\r\n}\r\n\r\n.slide {\r\n  flex-shrink: 0;\r\n  user-select: none;\r\n  -webkit-user-drag: none;\r\n}\r\n\r\n.carouselContainer {\r\n  @media (hover: hover) and (pointer: fine) {\r\n    &:hover .navButton,\r\n    &:focus-within .navButton {\r\n      opacity: 1;\r\n      pointer-events: auto;\r\n    }\r\n  }\r\n}\r\n\r\n.navButton {\r\n  opacity: 0;\r\n  transition: opacity 0.3s ease;\r\n  pointer-events: none;\r\n\r\n  @media (hover: none) {\r\n    display: none;\r\n  }\r\n}\r\n"],"names":[],"mappings":"AACE;;;;AAKF;;;;;;;AAOE;EACE;;;;;;AAQJ;;;;;;AAKE;EALF","ignoreList":[0]}}]
+}

@@ -1,0 +1,21 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/StyleOverlay.module.scss.module.css [app-client] (css) */
+.StyleOverlay-module-scss-module__PFvvpW__panel {
+  visibility: hidden;
+  opacity: 0;
+  z-index: -1;
+  transform-origin: 100% 0;
+  transform: scale(.2);
+}
+
+.StyleOverlay-module-scss-module__PFvvpW__panel.StyleOverlay-module-scss-module__PFvvpW__open {
+  visibility: visible;
+  opacity: 1;
+  transform: scale(1);
+}
+
+.StyleOverlay-module-scss-module__PFvvpW__panel:not(.StyleOverlay-module-scss-module__PFvvpW__open) {
+  z-index: -1;
+  filter: blur(.25rem);
+}
+
+/*# sourceMappingURL=ed6b0_core_dist_components_StyleOverlay_module_scss_module_css_bad6b30c._.single.css.map*/

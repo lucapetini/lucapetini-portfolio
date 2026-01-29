@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/modules/media/MediaUpload.module.scss"],"sourcesContent":[".container {\r\n    &:hover, &:focus {\r\n        background-color: var(--neutral-background-strong);\r\n    }\r\n}\r\n\r\n.text {\r\n    display: none;\r\n    visibility: hidden;\r\n    opacity: 0;\r\n}\r\n\r\n.upload {\r\n    &:hover {\r\n        background: var(--backdrop);\r\n        backdrop-filter: blur(0.25rem);\r\n\r\n        .text {\r\n            display: block;\r\n            visibility: visible;\r\n            opacity: 1;\r\n        }\r\n    }\r\n}"],"names":[],"mappings":"AACI;;;;AAKJ;;;;;;AAOI;;;;;;AAII","ignoreList":[0]}}]
+}

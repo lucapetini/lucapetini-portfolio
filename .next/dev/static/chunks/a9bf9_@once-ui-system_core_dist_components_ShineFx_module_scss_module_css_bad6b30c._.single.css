@@ -1,0 +1,42 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/ShineFx.module.scss.module.css [app-client] (css) */
+.ShineFx-module-scss-module__4g5azq__shineFx {
+  --shine-base-opacity: .3;
+  -webkit-text-fill-color: #0000;
+  background: linear-gradient(120deg, color-mix(in srgb, currentColor, transparent calc((1 - var(--shine-base-opacity)) * 100%)) 40%, currentColor 50%, color-mix(in srgb, currentColor, transparent calc((1 - var(--shine-base-opacity)) * 100%)) 60%);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: 5s linear infinite ShineFx-module-scss-module__4g5azq__shine;
+  display: inline-block;
+}
+
+.ShineFx-module-scss-module__4g5azq__inverse {
+  --shine-base-opacity: .3;
+  -webkit-text-fill-color: #0000;
+  background: linear-gradient(120deg, currentColor 40%, color-mix(in srgb, currentColor, transparent calc((1 - var(--shine-base-opacity)) * 100%)) 50%, currentColor 60%);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: 5s linear infinite ShineFx-module-scss-module__4g5azq__shine;
+  display: inline-block;
+}
+
+@keyframes ShineFx-module-scss-module__4g5azq__shine {
+  0% {
+    background-position: 100%;
+  }
+
+  100% {
+    background-position: -100%;
+  }
+}
+
+.ShineFx-module-scss-module__4g5azq__shineFx.ShineFx-module-scss-module__4g5azq__disabled {
+  -webkit-text-fill-color: inherit;
+  background: none;
+  -webkit-background-clip: unset;
+  background-clip: unset;
+  animation: none;
+}
+
+/*# sourceMappingURL=a9bf9_%40once-ui-system_core_dist_components_ShineFx_module_scss_module_css_bad6b30c._.single.css.map*/

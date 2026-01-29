@@ -1,0 +1,24 @@
+/* [project]/node_modules/@once-ui-system/core/dist/modules/media/MediaUpload.module.scss.module.css [app-client] (css) */
+.MediaUpload-module-scss-module__jgzGQW__container:hover, .MediaUpload-module-scss-module__jgzGQW__container:focus {
+  background-color: var(--neutral-background-strong);
+}
+
+.MediaUpload-module-scss-module__jgzGQW__text {
+  visibility: hidden;
+  opacity: 0;
+  display: none;
+}
+
+.MediaUpload-module-scss-module__jgzGQW__upload:hover {
+  background: var(--backdrop);
+  -webkit-backdrop-filter: blur(.25rem);
+  backdrop-filter: blur(.25rem);
+}
+
+.MediaUpload-module-scss-module__jgzGQW__upload:hover .MediaUpload-module-scss-module__jgzGQW__text {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
+
+/*# sourceMappingURL=ed6b0_core_dist_modules_media_MediaUpload_module_scss_module_css_bad6b30c._.single.css.map*/

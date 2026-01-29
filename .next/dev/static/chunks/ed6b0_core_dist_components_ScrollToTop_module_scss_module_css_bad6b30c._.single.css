@@ -1,0 +1,14 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/ScrollToTop.module.scss.module.css [app-client] (css) */
+.ScrollToTop-module-scss-module__-Ply4q__scrollToTop {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .2s ease-in-out, visibility 0s linear .2s;
+}
+
+.ScrollToTop-module-scss-module__-Ply4q__scrollToTop[data-visible="true"] {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity .2s ease-in-out, visibility linear;
+}
+
+/*# sourceMappingURL=ed6b0_core_dist_components_ScrollToTop_module_scss_module_css_bad6b30c._.single.css.map*/

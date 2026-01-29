@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Toaster.module.scss"],"sourcesContent":[".toastContainer {\r\n    bottom: var(--responsive-space-l);\r\n    left: 50%;\r\n    transform: translateX(-50%);\r\n}\r\n\r\n.toastWrapper {\r\n    bottom: 0;\r\n    transition: transform 0.3s, opacity 0.3s;\r\n}\r\n\r\n.toastAnimation {\r\n    animation: fadeIn 0.3s ease-out forwards;\r\n}\r\n\r\n@keyframes fadeIn {\r\n    from {\r\n        opacity: 0;\r\n        transform: translateY(4rem);\r\n    }\r\n    to {\r\n        opacity: 1;\r\n        transform: translateY(0);\r\n    }\r\n}"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;AAKA;;;;AAIA","ignoreList":[0]}}]
+}

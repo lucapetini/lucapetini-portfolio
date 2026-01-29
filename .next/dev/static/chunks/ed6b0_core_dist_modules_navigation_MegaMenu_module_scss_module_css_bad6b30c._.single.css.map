@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/modules/navigation/MegaMenu.module.scss"],"sourcesContent":["@keyframes fadeInDropdown {\r\n  from {\r\n    opacity: 0;\r\n    transform: translateY(-1rem) scale(0.95);\r\n  }\r\n  to {\r\n    opacity: 1;\r\n    transform: translateY(0) scale(1);\r\n  }\r\n}\r\n\r\n.dropdown {\r\n  animation: fadeInDropdown 0.2s ease-out forwards;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;;;;;;;AAWA","ignoreList":[0]}}]
+}

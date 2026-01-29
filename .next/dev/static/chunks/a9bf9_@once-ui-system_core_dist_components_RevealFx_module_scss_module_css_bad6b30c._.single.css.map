@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/RevealFx.module.scss"],"sourcesContent":[".revealFx {\r\n    mask-size: 400% 100%;\r\n    transition: all ease-in-out;\r\n    mask-image: linear-gradient(to right, black 0%, black 25%, transparent 50%);\r\n  \r\n    &.hidden {\r\n      mask-position: 100% 0;\r\n      filter: blur(1rem);\r\n    }\r\n  \r\n    &.revealed {\r\n      mask-position: 0 0;\r\n      filter: blur(0);\r\n    }\r\n}\r\n\r\n.hiddenNoMask {\r\n  transition: all ease-in-out;\r\n  filter: blur(0.5rem);\r\n  opacity: 0;\r\n}\r\n\r\n.revealedNoMask {\r\n  transition: all ease-in-out;\r\n  filter: blur(0);\r\n  opacity: 1;\r\n}"],"names":[],"mappings":"AAAA;;;;;;;;AAKI;;;;;;AAKA;;;;;;AAMJ;;;;;;AAMA","ignoreList":[0]}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Arrow.module.scss"],"sourcesContent":[".arrowContainer {\r\n    transition: var(--transition-micro-medium);\r\n    height: var(--static-space-16);\r\n    width: var(--static-space-0);\r\n    visibility: hidden;\r\n}\r\n\r\n.arrowHead {\r\n    transition: var(--transition-micro-medium);\r\n    width: var(--static-space-0);\r\n    right: 0;\r\n    transform-origin: right center;\r\n    transform: rotate(0);\r\n}\r\n\r\n.active {\r\n    width: var(--static-space-16);\r\n    visibility: visible;\r\n\r\n    .arrowHead {\r\n        width: var(--static-space-8);\r\n    }\r\n\r\n    .arrowHead:nth-child(1) {\r\n        transform: rotate(45deg);\r\n    }\r\n\r\n    .arrowHead:nth-child(2) {\r\n        transform: rotate(-45deg);\r\n    }\r\n}\r\n\r\n.onSolid {\r\n    background: var(--brand-on-solid-strong);\r\n}\r\n\r\n.onBackground {\r\n    background: var(--brand-on-background-strong);\r\n}"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;;;;AAQA;;;;;AAII;;;;AAIA;;;;AAIA;;;;AAKJ;;;;AAIA","ignoreList":[0]}}]
+}

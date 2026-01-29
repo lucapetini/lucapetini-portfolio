@@ -1,0 +1,29 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/Toaster.module.scss.module.css [app-client] (css) */
+.Toaster-module-scss-module__8DDx_a__toastContainer {
+  bottom: var(--responsive-space-l);
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.Toaster-module-scss-module__8DDx_a__toastWrapper {
+  transition: transform .3s, opacity .3s;
+  bottom: 0;
+}
+
+.Toaster-module-scss-module__8DDx_a__toastAnimation {
+  animation: .3s ease-out forwards Toaster-module-scss-module__8DDx_a__fadeIn;
+}
+
+@keyframes Toaster-module-scss-module__8DDx_a__fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/*# sourceMappingURL=a9bf9_%40once-ui-system_core_dist_components_Toaster_module_scss_module_css_bad6b30c._.single.css.map*/

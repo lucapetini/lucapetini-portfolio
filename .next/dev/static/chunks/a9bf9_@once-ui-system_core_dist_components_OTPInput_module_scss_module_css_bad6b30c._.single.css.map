@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/OTPInput.module.scss"],"sourcesContent":[".inputs {\r\n  font-size: var(--font-size-heading-xl);\r\n  transition: border-color 0.2s, box-shadow 0.2s;\r\n  min-width: var(--static-space-48);\r\n  max-width: var(--static-space-48);\r\n\r\n  input {\r\n    text-align: center;\r\n  }\r\n\r\n  &:focus-within {\r\n    animation: focusAnimation 0.3s forwards;\r\n  }\r\n}\r\n  \r\n@keyframes focusAnimation {\r\n  0% {\r\n    transform: scale(1);\r\n  }\r\n  50% {\r\n    transform: scale(1.05);\r\n  }\r\n  100% {\r\n    transform: scale(1);\r\n  }\r\n}"],"names":[],"mappings":"AAAA;;;;;;;AAME;;;;AAIA;;;;AAKF","ignoreList":[0]}}]
+}

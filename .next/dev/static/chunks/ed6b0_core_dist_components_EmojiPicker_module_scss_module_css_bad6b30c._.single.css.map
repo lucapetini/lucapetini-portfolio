@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/EmojiPicker.module.scss"],"sourcesContent":[".emojiButton {\r\n  will-change: transform;\r\n  contain: layout style paint;\r\n  transition: transform 0.1s ease;\r\n  \r\n  &:hover,\r\n  &:focus-visible {\r\n    transform: scale(1.05);\r\n  }\r\n  \r\n  &:focus-visible {\r\n    background: var(--neutral-alpha-weak) !important;\r\n  }\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;AAKE;;;;AAKA","ignoreList":[0]}}]
+}

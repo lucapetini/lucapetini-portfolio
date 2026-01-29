@@ -1,0 +1,22 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/Background.module.scss.module.css [app-client] (css) */
+.Background-module-scss-module__ijNboa__gradient {
+  background: radial-gradient(ellipse var(--gradient-width) var(--gradient-height) at var(--gradient-position-x) var(--gradient-position-y), var(--gradient-color-start), var(--gradient-color-end));
+  width: 400%;
+  height: 400%;
+  transform: rotate(var(--gradient-tilt));
+  transform-origin: center;
+  top: -150%;
+  left: -150%;
+}
+
+.Background-module-scss-module__ijNboa__lines {
+  background-size: var(--lines-size) var(--lines-size);
+  background-position: center;
+}
+
+.Background-module-scss-module__ijNboa__dots {
+  background-image: radial-gradient(var(--dots-color) 1px, var(--static-transparent) 1px);
+  background-size: var(--dots-size) var(--dots-size);
+}
+
+/*# sourceMappingURL=a9bf9_%40once-ui-system_core_dist_components_Background_module_scss_module_css_bad6b30c._.single.css.map*/

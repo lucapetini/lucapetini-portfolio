@@ -1,0 +1,47 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/Option.module.scss.module.css [app-client] (css) */
+.Option-module-scss-module__1pSFiW__option {
+  border-color: var(--static-transparent);
+}
+
+.Option-module-scss-module__1pSFiW__option.Option-module-scss-module__1pSFiW__highlighted:not(:hover):not(:focus) {
+  background: var(--static-transparent);
+  border-color: var(--neutral-alpha-medium);
+}
+
+.Option-module-scss-module__1pSFiW__option.Option-module-scss-module__1pSFiW__selected:not(:hover):not(:focus) {
+  background: var(--neutral-alpha-medium);
+  border-color: var(--neutral-alpha-medium);
+}
+
+.Option-module-scss-module__1pSFiW__option:hover, .Option-module-scss-module__1pSFiW__option:focus {
+  background: var(--neutral-alpha-weak);
+  border-color: var(--neutral-alpha-medium);
+  outline: none;
+}
+
+.Option-module-scss-module__1pSFiW__option:hover:disabled, .Option-module-scss-module__1pSFiW__option:focus:disabled {
+  background: var(--neutral-alpha-weak);
+  color: var(--neutral-on-background-weak);
+}
+
+.Option-module-scss-module__1pSFiW__option.Option-module-scss-module__1pSFiW__danger {
+  color: var(--danger-on-background-medium);
+}
+
+.Option-module-scss-module__1pSFiW__option.Option-module-scss-module__1pSFiW__danger:hover, .Option-module-scss-module__1pSFiW__option.Option-module-scss-module__1pSFiW__danger:focus {
+  background: var(--danger-solid-strong);
+  color: var(--danger-on-solid-strong);
+  border-color: var(--danger-border-strong);
+}
+
+.Option-module-scss-module__1pSFiW__focused {
+  background: var(--neutral-background-strong);
+}
+
+.Option-module-scss-module__1pSFiW__disabled {
+  background: var(--neutral-alpha-weak);
+  color: var(--neutral-on-background-weak);
+  border: none;
+}
+
+/*# sourceMappingURL=a9bf9_%40once-ui-system_core_dist_components_Option_module_scss_module_css_bad6b30c._.single.css.map*/

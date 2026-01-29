@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Carousel.module.scss"],"sourcesContent":[".controls {\r\n  &:hover, &:focus-within {\r\n    .fade {\r\n      opacity: 0.5;\r\n    }\r\n\r\n    .button {\r\n      opacity: 1;\r\n      transform: translateX(0);\r\n    }\r\n  }\r\n}\r\n\r\n.fade, .button {\r\n  opacity: 0;\r\n}\r\n\r\n.button {\r\n  animation-delay: 0.2s;\r\n}\r\n\r\n.left {\r\n  .button {\r\n    transform: translateX(-1rem);\r\n  }\r\n}\r\n\r\n.right {\r\n  .button {\r\n    transform: translateX(1rem);\r\n  }\r\n}"],"names":[],"mappings":"AAEI;;;;AAIA;;;;;AAOJ;;;;AAIA;;;;AAKE;;;;AAMA","ignoreList":[0]}}]
+}

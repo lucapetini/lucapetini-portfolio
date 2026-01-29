@@ -1,0 +1,30 @@
+/* [project]/src/resources/custom.css [app-client] (css) */
+a.asw-menu-btn {
+  background: var(--brand-on-background-weak) !important;
+  border: none !important;
+  border-radius: 999px !important;
+  outline: none !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 44px !important;
+  height: 44px !important;
+  display: flex !important;
+  box-shadow: 0 12px 28px #00000038 !important;
+}
+
+a.asw-menu-btn svg {
+  fill: #fff !important;
+  width: 22px !important;
+  height: 22px !important;
+}
+
+a.asw-menu-btn:hover, a.asw-menu-btn:focus-visible {
+  outline-offset: 2px !important;
+  outline: 2px solid #fff !important;
+}
+
+a.asw-menu-btn:hover {
+  box-shadow: 0 14px 34px #00000047 !important;
+}
+
+/*# sourceMappingURL=src_resources_custom_css_bad6b30c._.single.css.map*/

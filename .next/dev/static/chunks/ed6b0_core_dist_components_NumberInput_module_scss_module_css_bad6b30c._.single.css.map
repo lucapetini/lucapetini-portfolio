@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/NumberInput.module.scss"],"sourcesContent":[".numberInput {\r\n  input[type=\"number\"]::-webkit-inner-spin-button,\r\n  input[type=\"number\"]::-webkit-outer-spin-button {\r\n    -webkit-appearance: none;\r\n    margin: 0;\r\n  }\r\n\r\n  input[type=\"number\"] {\r\n    -moz-appearance: textfield;\r\n  }\r\n}\r\n\r\n.stepper {\r\n  pointer-events: visibleFill;\r\n  &:hover {\r\n    background-color: var(--neutral-alpha-medium);\r\n  }\r\n}"],"names":[],"mappings":"AACE;;;;;AAAA;;;;;AAMA;;;;AAKF;;;;AAEE","ignoreList":[0]}}]
+}

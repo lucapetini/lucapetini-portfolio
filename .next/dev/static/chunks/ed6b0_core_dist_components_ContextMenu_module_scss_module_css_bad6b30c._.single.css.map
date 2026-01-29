@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/ContextMenu.module.scss"],"sourcesContent":["@keyframes fadeIn {\r\n  from {\r\n    opacity: 0;\r\n    transform: scale(0.9);\r\n  }\r\n  to {\r\n    opacity: 1;\r\n    transform: scale(1);\r\n  }\r\n}\r\n\r\n.fadeIn {\r\n  transform-origin: top left;\r\n  animation: fadeIn var(--transition-duration-micro-medium) var(--transition-eased);\r\n}"],"names":[],"mappings":"AAAA;;;;;;;;;;;;AAWA","ignoreList":[0]}}]
+}

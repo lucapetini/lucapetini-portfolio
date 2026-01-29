@@ -1,0 +1,36 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/Dialog.module.scss.module.css [app-client] (css) */
+.Dialog-module-scss-module__XVtTRa__overlay {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.Dialog-module-scss-module__XVtTRa__overlay.Dialog-module-scss-module__XVtTRa__open {
+  opacity: 1;
+  visibility: visible;
+}
+
+.Dialog-module-scss-module__XVtTRa__dialog {
+  opacity: 0;
+  max-width: 40rem;
+  max-height: 100%;
+  transform: scale(.2);
+}
+
+.Dialog-module-scss-module__XVtTRa__dialog.Dialog-module-scss-module__XVtTRa__open {
+  opacity: 1;
+  visibility: visible;
+  transform: scale(1);
+}
+
+@media (max-width: 1024px) {
+  .Dialog-module-scss-module__XVtTRa__dialog {
+    bottom: var(--static-space-8);
+    left: var(--static-space-8);
+    right: var(--static-space-8);
+    top: var(--static-space-8);
+    position: fixed;
+    max-width: calc(100% - var(--static-space-16)) !important;
+  }
+}
+
+/*# sourceMappingURL=a9bf9_%40once-ui-system_core_dist_components_Dialog_module_scss_module_css_bad6b30c._.single.css.map*/

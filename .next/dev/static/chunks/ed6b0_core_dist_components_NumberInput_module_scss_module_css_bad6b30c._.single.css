@@ -1,0 +1,24 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/NumberInput.module.scss.module.css [app-client] (css) */
+.NumberInput-module-scss-module__RQ2DLW__numberInput input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.NumberInput-module-scss-module__RQ2DLW__numberInput input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.NumberInput-module-scss-module__RQ2DLW__numberInput input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.NumberInput-module-scss-module__RQ2DLW__stepper {
+  pointer-events: visibleFill;
+}
+
+.NumberInput-module-scss-module__RQ2DLW__stepper:hover {
+  background-color: var(--neutral-alpha-medium);
+}
+
+/*# sourceMappingURL=ed6b0_core_dist_components_NumberInput_module_scss_module_css_bad6b30c._.single.css.map*/

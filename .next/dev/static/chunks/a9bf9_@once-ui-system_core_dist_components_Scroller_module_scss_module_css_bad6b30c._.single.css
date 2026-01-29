@@ -1,0 +1,23 @@
+/* [project]/node_modules/@once-ui-system/core/dist/components/Scroller.module.scss.module.css [app-client] (css) */
+.Scroller-module-scss-module__RaMiyG__container {
+  isolation: isolate;
+}
+
+.Scroller-module-scss-module__RaMiyG__scroller {
+  scrollbar-width: none;
+  isolation: isolate;
+}
+
+.Scroller-module-scss-module__RaMiyG__scroller::-webkit-scrollbar {
+  display: none;
+}
+
+.Scroller-module-scss-module__RaMiyG__row {
+  overflow-x: auto;
+}
+
+.Scroller-module-scss-module__RaMiyG__column {
+  overflow-y: auto;
+}
+
+/*# sourceMappingURL=a9bf9_%40once-ui-system_core_dist_components_Scroller_module_scss_module_css_bad6b30c._.single.css.map*/

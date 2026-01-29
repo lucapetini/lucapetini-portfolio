@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Toast.module.scss"],"sourcesContent":[".toast {\r\n    transition: opacity 0.3s, transform 0.3s;\r\n}\r\n\r\n.visible {\r\n    opacity: 1;\r\n}\r\n\r\n.hidden {\r\n    opacity: 0;\r\n}"],"names":[],"mappings":"AAAA;;;;AAIA;;;;AAIA","ignoreList":[0]}}]
+}

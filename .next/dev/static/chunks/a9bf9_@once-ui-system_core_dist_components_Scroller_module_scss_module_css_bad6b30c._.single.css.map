@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Scroller.module.scss"],"sourcesContent":[".container {\r\n    isolation: isolate;\r\n}\r\n\r\n.scroller {\r\n    scrollbar-width: none;\r\n    isolation: isolate;\r\n  \r\n    &::-webkit-scrollbar {\r\n        display: none;\r\n    }\r\n}\r\n  \r\n.row {\r\n    overflow-x: auto;\r\n}\r\n  \r\n.column {\r\n    overflow-y: auto;\r\n}"],"names":[],"mappings":"AAAA;;;;AAIA;;;;;AAII;;;;AAKJ;;;;AAIA","ignoreList":[0]}}]
+}

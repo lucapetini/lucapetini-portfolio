@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 46, "column": 0}, "map": {"version":3,"sources":["file:///Users/lucapetini/Desktop/Workspace/Progetti%20Personali/Luca%20Petini/lucapetini-portfolio/src/app/api/check-auth/route.ts"],"sourcesContent":["import { NextRequest, NextResponse } from \"next/server\";\nimport * as cookie from \"cookie\";\n\nexport async function GET(request: NextRequest) {\n  const cookieHeader = request.headers.get(\"cookie\") || \"\";\n  const cookies = cookie.parse(cookieHeader);\n\n  if (cookies.authToken === \"authenticated\") {\n    return NextResponse.json({ authenticated: true }, { status: 200 });\n  } else {\n    return NextResponse.json({ authenticated: false }, { status: 401 });\n  }\n}\n"],"names":[],"mappings":";;;;AAAA;AACA;;;AAEO,eAAe,IAAI,OAAoB;IAC5C,MAAM,eAAe,QAAQ,OAAO,CAAC,GAAG,CAAC,aAAa;IACtD,MAAM,UAAU,kJAAY,CAAC;IAE7B,IAAI,QAAQ,SAAS,KAAK,iBAAiB;QACzC,OAAO,gJAAY,CAAC,IAAI,CAAC;YAAE,eAAe;QAAK,GAAG;YAAE,QAAQ;QAAI;IAClE,OAAO;QACL,OAAO,gJAAY,CAAC,IAAI,CAAC;YAAE,eAAe;QAAM,GAAG;YAAE,QAAQ;QAAI;IACnE;AACF"}}]
+}
