@@ -86,3 +86,9 @@ a.asw-menu-btn:focus-visible {
 a.asw-menu-btn:hover {
   box-shadow: 0 14px 34px rgba(0, 0, 0, 0.28) !important;
 }
+
+/* Allinea ASW */
+a.asw-menu-btn {
+  bottom: 16px !important;
+  left: 16px !important;
+}

@@ -46,6 +46,31 @@ export default async function RootLayout({
       )}
     >
       <head>
+          {/* Iubenda – Privacy Controls & Cookie Solution */}
+          <script
+  dangerouslySetInnerHTML={{
+    __html: `
+      var _iub = _iub || [];
+      _iub.csConfiguration = {
+        siteId: [INSERISCI_SITE_ID],
+        cookiePolicyId: [INSERISCI_COOKIE_POLICY_ID],
+        lang: "en",
+        enableRemoteConsent: true,
+        askConsentAtCookiePolicyUpdate: true,
+        perPurposeConsent: true,
+        banner: {
+          acceptButtonDisplay: true,
+          rejectButtonDisplay: true,
+          position: "bottom"
+        }
+      };
+    `,
+  }}
+/>
+  <Script
+    src="https://embeds.iubenda.com/widgets/50cef194-fc46-47cf-b7d4-7bd6545eabdb.js"
+    strategy="afterInteractive"
+  />
   <script
     id="theme-init"
     dangerouslySetInnerHTML={{
@@ -95,12 +120,6 @@ export default async function RootLayout({
         })();
       `,
     }}
-  />
-
-  {/* Iubenda – Privacy Controls & Cookie Solution */}
-  <Script
-    src="https://embeds.iubenda.com/widgets/50cef194-fc46-47cf-b7d4-7bd6545eabdb.js"
-    strategy="afterInteractive"
   />
 </head>
       <Providers>
