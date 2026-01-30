@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/lucapetini/Desktop/Workspace/Progetti%20Personali/Luca%20Petini/lucapetini-portfolio/src/components/gallery/GalleryView.tsx"],"sourcesContent":["\"use client\";\n\nimport { Media, MasonryGrid } from \"@once-ui-system/core\";\nimport { gallery } from \"@/resources\";\n\nexport default function GalleryView() {\n  return (\n    <MasonryGrid columns={2} s={{ columns: 1 }}>\n      {gallery.images.map((image, index) => (\n        <Media\n          enlarge\n          priority={index < 10}\n          sizes=\"(max-width: 560px) 100vw, 50vw\"\n          key={index}\n          radius=\"m\"\n          aspectRatio={image.orientation === \"horizontal\" ? \"16 / 9\" : \"3 / 4\"}\n          src={image.src}\n          alt={image.alt}\n        />\n      ))}\n    </MasonryGrid>\n  );\n}\n"],"names":[],"mappings":";;;;;AAEA;AAAA;AAAA;AACA;AAAA;AAHA;;;;AAKe,SAAS;IACtB,qBACE,8OAAC,kMAAW;QAAC,SAAS;QAAG,GAAG;YAAE,SAAS;QAAE;kBACtC,uIAAO,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,OAAO,sBAC1B,8OAAC,sLAAK;gBACJ,OAAO;gBACP,UAAU,QAAQ;gBAClB,OAAM;gBAEN,QAAO;gBACP,aAAa,MAAM,WAAW,KAAK,eAAe,WAAW;gBAC7D,KAAK,MAAM,GAAG;gBACd,KAAK,MAAM,GAAG;eAJT;;;;;;;;;;AASf"}}]
-}

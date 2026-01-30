@@ -13,7 +13,7 @@ import {
 } from "@/types";
 import { home } from "./index";
 
-const baseURL: string = "https://lucapetini.com";
+const baseURL: string = "https://www.lucapetini.com";
 
 const routes: RoutesConfig = {
   "/": true,

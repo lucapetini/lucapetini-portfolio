@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Tag.module.scss"],"sourcesContent":[".tag {\r\n    white-space: nowrap;\r\n    user-select: none;\r\n\r\n    &.gradient {\r\n        background-image: linear-gradient(45deg, var(--brand-background-strong), var(--accent-background-strong));\r\n        color: var(--brand-on-background-medium);\r\n        background-clip: padding-box;\r\n    }\r\n}"],"names":[],"mappings":"AAAA;;;;;;AAII","ignoreList":[0]}}]
-}

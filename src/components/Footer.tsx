@@ -33,9 +33,9 @@ export const Footer = () => {
   {/* Legal */}
   <Row gap="16">
     <Text variant="body-default-s" onBackground="neutral-weak">
-    <SmartLink href="https://www.iubenda.com/privacy-policy/63034659">Privacy Policy</SmartLink>
+    <SmartLink href="https://www.iubenda.com/privacy-policy/55886734">Privacy Policy</SmartLink>
      · 
-    <SmartLink href="https://www.iubenda.com/privacy-policy/63034659/cookie-policy">Cookie Policy</SmartLink>
+    <SmartLink href="https://www.iubenda.com/privacy-policy/55886734/cookie-policy">Cookie Policy</SmartLink>
     </Text>
   </Row>
 

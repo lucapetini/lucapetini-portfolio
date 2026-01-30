@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/InlineCode.module.scss"],"sourcesContent":[".inlineCode {\r\n    font-size: 80%;\r\n    line-height: 125%;\r\n    vertical-align: middle;\r\n}"],"names":[],"mappings":"AAAA","ignoreList":[0]}}]
-}

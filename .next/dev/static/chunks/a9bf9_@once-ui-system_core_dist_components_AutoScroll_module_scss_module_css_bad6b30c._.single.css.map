@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/AutoScroll.module.scss"],"sourcesContent":[".marqueeWrapper {\r\n  will-change: transform;\r\n}\r\n\r\n.marqueeContent {\r\n  white-space: nowrap;\r\n  flex-shrink: 0;\r\n  min-width: 100%;\r\n}"],"names":[],"mappings":"AAAA;;;;AAIA","ignoreList":[0]}}]
-}

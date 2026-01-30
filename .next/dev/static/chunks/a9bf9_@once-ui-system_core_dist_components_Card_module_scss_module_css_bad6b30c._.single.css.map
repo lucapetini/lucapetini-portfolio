@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Card.module.scss"],"sourcesContent":[".card {\r\n    @media (hover: hover) {\r\n        &:hover {\r\n            background-color: var(--neutral-alpha-weak);\r\n        }\r\n    }\r\n}"],"names":[],"mappings":"AACI;EACI","ignoreList":[0]}}]
-}

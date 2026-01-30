@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Icon.module.scss"],"sourcesContent":[".xs { \r\n    font-size: var(--static-space-16)\r\n}\r\n\r\n.s { \r\n    font-size: var(--static-space-20)\r\n}\r\n\r\n.m { \r\n    font-size: var(--static-space-24)\r\n}\r\n\r\n.l { \r\n    font-size: var(--static-space-32)\r\n}\r\n\r\n.xl { \r\n    font-size: var(--static-space-40)\r\n}"],"names":[],"mappings":"AAAA;;;;AAIA;;;;AAIA;;;;AAIA;;;;AAIA","ignoreList":[0]}}]
-}

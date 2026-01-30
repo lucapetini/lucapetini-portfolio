@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/IconButton.module.scss"],"sourcesContent":[".s {\r\n\tmin-height: var(--static-space-24);\r\n\tmin-width: var(--static-space-24);\r\n\theight: var(--static-space-24);\r\n\twidth: var(--static-space-24);\r\n}\r\n\r\n.m {\r\n\tmin-height: var(--static-space-32);\r\n\tmin-width: var(--static-space-32);\r\n\theight: var(--static-space-32);\r\n\twidth: var(--static-space-32);\r\n}\r\n\r\n.l {\r\n\tmin-height: var(--static-space-40);\r\n\tmin-width: var(--static-space-40);\r\n\theight: var(--static-space-40);\r\n\twidth: var(--static-space-40);\r\n}"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;;;AAOA","ignoreList":[0]}}]
-}

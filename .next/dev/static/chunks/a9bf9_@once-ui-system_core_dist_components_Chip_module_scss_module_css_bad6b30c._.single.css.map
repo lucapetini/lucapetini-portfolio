@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/Chip.module.scss"],"sourcesContent":[".chip {\r\n    white-space: nowrap;\r\n    user-select: none;\r\n\r\n    &.selected {\r\n        background: var(--brand-alpha-medium);\r\n        color: var(--brand-on-background-medium);\r\n\r\n        &:hover,\r\n        &:focus {\r\n            background: var(--brand-alpha-medium);\r\n        }\r\n\r\n        &:active {\r\n            background: var(--brand-alpha-weak);\r\n            color: var(--brand-on-background-weak);\r\n        }\r\n    }\r\n\r\n    &.unselected {\r\n        background: var(--neutral-alpha-weak);\r\n        color: var(--neutral-on-background-medium);\r\n\r\n        &:hover,\r\n        &:focus {\r\n            background: var(--neutral-alpha-medium);\r\n        }\r\n\r\n        &:active {\r\n            background: var(--neutral-alpha-weak);\r\n            color: var(--neutral-on-background-weak);\r\n        }\r\n    }\r\n\r\n    &:disabled {\r\n        background: var(--neutral-solid-weak);\r\n        cursor: not-allowed;\r\n    }\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;AAII;;;;;AAII;;;;AAKA;;;;;AAMJ;;;;;AAII;;;;AAKA;;;;;AAMJ","ignoreList":[0]}}]
-}

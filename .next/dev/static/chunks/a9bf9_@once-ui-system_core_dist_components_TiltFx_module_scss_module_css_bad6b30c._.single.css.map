@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/components/TiltFx.module.scss"],"sourcesContent":[".tiltFx {\r\n    transition: transform 0.3s ease-out;\r\n}\r\n\r\n@media (hover: hover) {\r\n    .tiltFx {\r\n        perspective: 1000px;\r\n        transform-style: preserve-3d;\r\n        will-change: transform;\r\n    }\r\n}"],"names":[],"mappings":"AAAA;;;;AAIA;EACI","ignoreList":[0]}}]
-}

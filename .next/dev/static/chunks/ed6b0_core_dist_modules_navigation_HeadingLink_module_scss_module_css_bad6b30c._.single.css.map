@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/node_modules/@once-ui-system/core/dist/modules/navigation/HeadingLink.module.scss"],"sourcesContent":[".control {\r\n    @media (hover: hover) {\r\n        &:hover {\r\n            .text {\r\n                text-decoration-line: underline;\r\n            }\r\n        }\r\n    }\r\n}\r\n\r\n.text {\r\n    text-decoration-thickness: 1px;\r\n    text-underline-offset: 0.25em;\r\n    text-decoration-color: var(--neutral-border-strong);\r\n}"],"names":[],"mappings":"AACI;EAEQ;;;;;AAOZ","ignoreList":[0]}}]
-}
